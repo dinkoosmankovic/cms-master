@@ -78,6 +78,8 @@ particular we are aware of the following.
       2013;
     - ABC 2014 (Algoritmi Bergamo Contest), Bergamo, Italy, 17 May
       2014.
+    - KTOS (Local programming competition for elementary schools), Sarajevo, Bosnia and Herzegovina, 27 April 2014.
+    - KTSS (Local programming competition for high schools), Sarajevo, Bosnia and Herzegovina, 12 April 2014.
 - Training:
     - training camps for the selections of the national IOI teams of
       Australia, Egypt, India, Italy, Japan, Latvia, Serbia and Taiwan.
